@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @getalex
-- 👀 I’m interested in you.
+- 👀 I’m interested in null.
 - 🌱 I’m currently learning daily.
 - 💞️ I’m looking to collaborate on whatever isn't working.
 - 📫 How to reach me ... I don't even know myself.
